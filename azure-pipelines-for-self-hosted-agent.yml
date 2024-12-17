@@ -10,10 +10,10 @@ pool: myAgentPool
 
 variables:
   # TODO: Replace the service connection name as used in the DevOps project settings
-  azureServiceConnectionId: 'mySC'
+  azureServiceConnectionId: 'a2ea0a7a-9f2a-42e0-acea-772933c2d072'
   
   # TODO: Specify the value of the existing Web App name
-  webAppName: 'mywebapp207578'
+  webAppName: 'danisflaskmlazure'
 
   # Environment name
   environmentName: 'flask-ml-service'
